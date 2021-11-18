@@ -1,0 +1,16 @@
+C:\Josh\Brix_Software\Recursive\Recursive_SuperDigit\bin\Debug\net5.0\Recursive_SuperDigit.exe
+C:\Josh\Brix_Software\Recursive\Recursive_SuperDigit\bin\Debug\net5.0\Recursive_SuperDigit.deps.json
+C:\Josh\Brix_Software\Recursive\Recursive_SuperDigit\bin\Debug\net5.0\Recursive_SuperDigit.runtimeconfig.json
+C:\Josh\Brix_Software\Recursive\Recursive_SuperDigit\bin\Debug\net5.0\Recursive_SuperDigit.runtimeconfig.dev.json
+C:\Josh\Brix_Software\Recursive\Recursive_SuperDigit\bin\Debug\net5.0\Recursive_SuperDigit.dll
+C:\Josh\Brix_Software\Recursive\Recursive_SuperDigit\bin\Debug\net5.0\ref\Recursive_SuperDigit.dll
+C:\Josh\Brix_Software\Recursive\Recursive_SuperDigit\bin\Debug\net5.0\Recursive_SuperDigit.pdb
+C:\Josh\Brix_Software\Recursive\Recursive_SuperDigit\obj\Debug\net5.0\Recursive_SuperDigit.csproj.AssemblyReference.cache
+C:\Josh\Brix_Software\Recursive\Recursive_SuperDigit\obj\Debug\net5.0\Recursive_SuperDigit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Josh\Brix_Software\Recursive\Recursive_SuperDigit\obj\Debug\net5.0\Recursive_SuperDigit.AssemblyInfoInputs.cache
+C:\Josh\Brix_Software\Recursive\Recursive_SuperDigit\obj\Debug\net5.0\Recursive_SuperDigit.AssemblyInfo.cs
+C:\Josh\Brix_Software\Recursive\Recursive_SuperDigit\obj\Debug\net5.0\Recursive_SuperDigit.csproj.CoreCompileInputs.cache
+C:\Josh\Brix_Software\Recursive\Recursive_SuperDigit\obj\Debug\net5.0\Recursive_SuperDigit.dll
+C:\Josh\Brix_Software\Recursive\Recursive_SuperDigit\obj\Debug\net5.0\ref\Recursive_SuperDigit.dll
+C:\Josh\Brix_Software\Recursive\Recursive_SuperDigit\obj\Debug\net5.0\Recursive_SuperDigit.pdb
+C:\Josh\Brix_Software\Recursive\Recursive_SuperDigit\obj\Debug\net5.0\Recursive_SuperDigit.genruntimeconfig.cache
