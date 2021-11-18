@@ -1,0 +1,16 @@
+C:\Josh\Brix_Software\Brix_Software\MinMaxSum\bin\Debug\net5.0\MinMaxSum.exe
+C:\Josh\Brix_Software\Brix_Software\MinMaxSum\bin\Debug\net5.0\MinMaxSum.deps.json
+C:\Josh\Brix_Software\Brix_Software\MinMaxSum\bin\Debug\net5.0\MinMaxSum.runtimeconfig.json
+C:\Josh\Brix_Software\Brix_Software\MinMaxSum\bin\Debug\net5.0\MinMaxSum.runtimeconfig.dev.json
+C:\Josh\Brix_Software\Brix_Software\MinMaxSum\bin\Debug\net5.0\MinMaxSum.dll
+C:\Josh\Brix_Software\Brix_Software\MinMaxSum\bin\Debug\net5.0\ref\MinMaxSum.dll
+C:\Josh\Brix_Software\Brix_Software\MinMaxSum\bin\Debug\net5.0\MinMaxSum.pdb
+C:\Josh\Brix_Software\Brix_Software\MinMaxSum\obj\Debug\net5.0\MinMaxSum.csproj.AssemblyReference.cache
+C:\Josh\Brix_Software\Brix_Software\MinMaxSum\obj\Debug\net5.0\MinMaxSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Josh\Brix_Software\Brix_Software\MinMaxSum\obj\Debug\net5.0\MinMaxSum.AssemblyInfoInputs.cache
+C:\Josh\Brix_Software\Brix_Software\MinMaxSum\obj\Debug\net5.0\MinMaxSum.AssemblyInfo.cs
+C:\Josh\Brix_Software\Brix_Software\MinMaxSum\obj\Debug\net5.0\MinMaxSum.csproj.CoreCompileInputs.cache
+C:\Josh\Brix_Software\Brix_Software\MinMaxSum\obj\Debug\net5.0\MinMaxSum.dll
+C:\Josh\Brix_Software\Brix_Software\MinMaxSum\obj\Debug\net5.0\ref\MinMaxSum.dll
+C:\Josh\Brix_Software\Brix_Software\MinMaxSum\obj\Debug\net5.0\MinMaxSum.pdb
+C:\Josh\Brix_Software\Brix_Software\MinMaxSum\obj\Debug\net5.0\MinMaxSum.genruntimeconfig.cache
